@@ -36,3 +36,9 @@ Também é notável que o algoritmo teve dificuldade em analisar palavras menore
 Melhoria 
 
 Uma otimização possível seria incluir uma flag para indicar palavras mais comuns para as pessoas.
+
+Referências
+
+Base de palavras: http://alcor.concordia.ca/~vjorge/Palavras-Cruzadas/Lista-de-Palavras.txt acessado em: 23/05/2015
+
+
