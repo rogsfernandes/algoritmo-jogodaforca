@@ -31,4 +31,8 @@ Casa	- 6
 Observação
 
 É possível ver que o computador, com as instruções certas, consegue aplicar o conhecimento humano com uma grande eficiência, executando grandes filtros lógicos rapidamente e alcançando o objetivo. 
-Também é notável que o algoritmo teve dificuldade em analisar palavras menores e comuns, pois estas palavras possuem várias palavras semelhantes no dicionário (Casa, por exemplo: cara, cada, cama, etc.), sendo necessárias mais tentativas. Uma otimização possívelseria incluir uma flag para indicar palavras mais comuns para as pessoas.
+Também é notável que o algoritmo teve dificuldade em analisar palavras menores e comuns, pois estas palavras possuem várias palavras semelhantes no dicionário (Casa, por exemplo: cara, cada, cama, etc.), sendo necessárias mais tentativas. 
+
+Melhoria 
+
+Uma otimização possível seria incluir uma flag para indicar palavras mais comuns para as pessoas.
