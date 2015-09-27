@@ -1,0 +1,11 @@
+C:\Documents and Settings\lab6aluno\Meus documentos\Visual Studio 2008\Projects\JogoDaForca\JogoDaForca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab6aluno\Meus documentos\Visual Studio 2008\Projects\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Documents and Settings\lab6aluno\Meus documentos\Visual Studio 2008\Projects\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Documents and Settings\lab6aluno\Meus documentos\Visual Studio 2008\Projects\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Documents and Settings\lab6aluno\Meus documentos\Visual Studio 2008\Projects\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\rsfer\Documents\Visual Studio 2015\Projects\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csprojResolveAssemblyReference.cache
